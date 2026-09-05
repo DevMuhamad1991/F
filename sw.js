@@ -1,4 +1,4 @@
-const CACHE = 'sexur-v2';
+const CACHE = 'sexur-v3';
 const FILES = [
   '/',
   '/index.html',
